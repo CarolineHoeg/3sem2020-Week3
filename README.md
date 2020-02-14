@@ -2,12 +2,12 @@
 
 ## Monday
 1. I completed all the exercises.
-2. Solutions to the exercises can be found in the folder "01-mon-tuesday-exercises" (see all other code than \src\test\java\rest\MovieResourceTest). 
+2. Solutions to the exercises can be found in [this repository](https://github.com/CarolineHoeg/3sem2020-Week3-Mon-Tuesday) (see all other code than \src\test\java\rest\MovieResourceTest). 
 3. CI, Maven, Travis.
 
 ## Tuesday
 1. I completed all the exercises.
-2. Solutions to the exercises can be found in the folder "01-mon-tuesday-exercises" (see \src\test\java\rest\MovieResourceTest). 
+2. Solutions to the exercises can be found in [this repository](https://github.com/CarolineHoeg/3sem2020-Week3-Mon-Tuesday) (see \src\test\java\rest\MovieResourceTest). 
 3. REST assured, Hamcrest.
 
 
