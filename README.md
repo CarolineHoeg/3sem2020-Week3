@@ -21,8 +21,3 @@
 1. I completed all the exercises, not including the red one.
 2. Solutions to the exercises can be found in the folder "03-thursday-exercises" (see \src\main\webapp). 
 3. JavaScript, DOM.
-
-## Friday
-1.
-2.
-3. JavaScript, REST.
