@@ -15,6 +15,7 @@ function clickedBtn(evt) {
     }
 }
 
+//It only works with two numbers and one numeral operator
 function calculate() {
     let equation, numbers;
     equation = display.innerHTML
